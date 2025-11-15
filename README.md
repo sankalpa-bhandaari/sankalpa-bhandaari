@@ -1,4 +1,4 @@
-#  I'm Sankalpa Bhandaari
+# Hello 👋, I'm Sankalpa Bhandaari
 
 ### A passionate frontend developer from Nepal
 
